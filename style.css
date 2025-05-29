@@ -1,0 +1,39 @@
+body{
+  background-color: #f5f5f5;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 375px;
+  width: 800px;
+}
+
+h1{
+  color: #333366;
+  font-size: 35px;
+}
+
+p{
+  font-size: 20px;
+  color:#555;
+}
+
+ul{
+  list-style-type:square;
+}
+
+img{
+  width: 50px;
+  border-radius: 20px;
+  box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+}
+
+a{
+  color:#0066cc;
+  text-decoration:none;
+}
+
+form{
+  margin-top: 20px;
+  padding: 20px;
+  background:cornsilk;
+  border: 5px solid darkgoldenrod;
+  border-radius: 10px;
+}
