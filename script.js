@@ -12,3 +12,8 @@ function sayHello() {
   document.getElementById("output").textContent = "Hi, " + name + "!";
   }
 }
+
+function favColor() {
+  const color = document.getElementById("user").value;
+  document.getElementById("color").textContent += "Your Favourite Color is"+ color + "!";
+}
